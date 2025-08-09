@@ -3,7 +3,7 @@ import ProductList from './components/Productlist';
 import Cart from './components/Cart';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://api-carrito.onrender.com';
 
 // Función para obtener todas las combinaciones posibles
 function getAllCombinations(arr) {
